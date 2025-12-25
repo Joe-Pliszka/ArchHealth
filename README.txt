@@ -1,1 +1,1 @@
-Archhealth is a framework for monitoring application and network latency. The repository includes Zeek scripts for measuring server response time and network jitter. It includes client/server architecture to generate it and baseline alerts.
+Archhealth is a framework for monitoring application and network latency. The repository includes Zeek scripts for measuring application response time and network jitter. It includes client/server architecture to generate traffic and baseline alerts.
